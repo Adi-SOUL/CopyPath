@@ -7,7 +7,7 @@ For some reason, we may need to paste the paths of multiple files in a directory
 Right click a directory (or the background of a directory), and then choose `Copy All Relavite Paths` or `Copy All Absolute Paths`. That's all.
 
 ## How to install CopyPath?
-1. Download the released files [here]();
+1. Download the released files [here](https://github.com/Adi-SOUL/CopyPath/releases);
 2. Run `install.bat` as an administrator.
 
 Alternatively, you can compile it from the source code.
